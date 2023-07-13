@@ -1,12 +1,4 @@
 # AtliQ-Hospitality-Analysis---PowerBI
-As part of the codebasics september month resume challenge, I have worked on this analysis project.
-
-Link to the Challenge
-
-Link to Interactive Dashboard
-
-Link to Presentation Video
-
 Problem statement
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
@@ -19,10 +11,12 @@ Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 Provided Mock-up Dashboard
+![image](https://github.com/Gyaneshwar16/AtliQ-Hospitality-Analysis---PowerBI/assets/139397600/f91424ef-7eb8-484d-823b-50fe73eeea5a)
 
 
 Data Model
 
+![image](https://github.com/Gyaneshwar16/AtliQ-Hospitality-Analysis---PowerBI/assets/139397600/6c578c46-7429-4e12-9fe5-b5f55aae80f4)
 
 Overall Analysis View
 
