@@ -25,8 +25,13 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 **Overall Analysis View**
 
+![image](https://github.com/Gyaneshwar16/AtliQ-Hospitality-Analysis---PowerBI/assets/139397600/0546a296-bf63-43b1-bc4e-7866fbf4d7d1)
 
-**Monthly Analysis View**
+
+**WoW Analysis View**
+
+![image](https://github.com/Gyaneshwar16/AtliQ-Hospitality-Analysis---PowerBI/assets/139397600/3ceefd56-7aec-404c-bb4f-492470cbf95b)
+
 
 
 **Learnt things from this Project**
